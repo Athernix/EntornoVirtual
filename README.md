@@ -2,4 +2,4 @@
 
 
 
-[ \Scripts\activate
+[nombre de entorno virtual] \Scripts\activate
